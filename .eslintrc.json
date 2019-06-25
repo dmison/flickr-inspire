@@ -8,6 +8,9 @@
   "rules": {
     "no-console": "off",
     "comma-dangle": "off",
-    "react/jsx-filename-extension": "off"
+    "react/jsx-filename-extension": "on",
+    "react/forbid-prop-types": "off",
+    "camelcase": "off"
+
   }
 }
